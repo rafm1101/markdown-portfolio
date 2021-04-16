@@ -1,0 +1,4 @@
+* crap
+* bin
+* trash
+  * paper
